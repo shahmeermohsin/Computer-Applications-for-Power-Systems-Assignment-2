@@ -1,0 +1,1 @@
+There are two java classes: One has the main function and the functions for the knn and kmeans. The other one creates an SQL database.
